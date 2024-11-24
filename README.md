@@ -95,7 +95,7 @@ git commit -m "Brief description of changes made"
 We’d like to give a big shout-out to the following for their inspiration and support:
 
 - **Tusker** 🍻: For being an iconic brand and the inspiration behind this landing page design. 🦏🍺
-- **East African Breweries Limited (EABL)** 🏭: For their continued contribution to the brewing industry and for bringing us such a beloved beer. 🍻
+- **East African Breweries Limited (EABL)** 🏭: For their continued contribution to the brewing industry. 🍻
 - **Open Source Community** 🌍: For the countless libraries, frameworks, and tools that make projects like this possible. 🔧💻
 
 A special thanks to everyone who contributes to this project and helps make it better! 🚀
